@@ -1,2 +1,3 @@
-# usecase
-để dành up usecase
+muốn mở file thì:
+- down file về
+- mỏ nó bằng draw.io hoặc diagram.net
